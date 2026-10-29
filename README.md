@@ -12,7 +12,7 @@ La visualización se ha desarrollado utilizando **JavaScript y Apache ECharts**,
 
 Los datos utilizados proceden del **Instituto Nacional de Estadística (INE)**, concretamente de la estadística *Defunciones según la causa de muerte*.
 
-- **Fuente:** Instituto Nacional de Estadística (INE).
+- **Fuente:** Instituto Nacional de Estadística (INE). Resultados detallados año 2024
 - **Ámbito geográfico:** España.
 - **Población analizada:** todas las edades.
 - **Variables:** tipo de tumor, sexo y número de defunciones.
