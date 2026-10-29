@@ -71,16 +71,16 @@ El repositorio contiene los siguientes archivos:
 | `index.html` | Página principal que contiene la visualización interactiva. |
 | `nightingale_top10.js` | Código JavaScript que genera el diagrama de Nightingale. |
 | `top_10_tumores_mortalidad.xlsx` | Conjunto de datos filtrado con los diez tipos de tumores de mayor mortalidad. |
-| `76944.xlsx` | Conjunto de datos original obtenido del INE. |
+| `76944.xlsx` | Conjunto de datos original obtenido del INE. Defunciones por causas (lista reducida), sexo, lugar de residencia y edad. Detalle 2024 |
 | `README.md` | Documentación del proyecto. |
 
 ## 7. Acceso a la visualización
 
-La visualización se encuentra publicada mediante **GitHub Pages**, lo que permite acceder directamente al gráfico desde cualquier navegador web sin necesidad de registro ni contraseña.
+La visualización se encuentra publicada mediante **GitHub Pages**.
 
 **Enlace a la visualización:**
 
-[Añadir aquí la URL pública de GitHub Pages]
+https://ainfantesc.github.io/nightingale-tumores/
 
 ## 8. Consideraciones sobre la interpretación
 
